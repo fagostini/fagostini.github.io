@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
+title: LINEs and RNPs
 description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
+img: /assets/img/Cell_LINEs.png
+redirect: https://www.cell.com/cell/fulltext/S0092-8674(18)30857-2
 importance: 3
 ---
 

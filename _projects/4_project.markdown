@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 4
+title: catRAPID
 description: another without an image
-img:
+img: /assets/img/catrapid_logo.png
+redirect: http://s.tartaglialab.com/page/catrapid_group
 importance: 3
 ---
 
@@ -16,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/catrapid_logo.png
     ---
 
 <div class="row">

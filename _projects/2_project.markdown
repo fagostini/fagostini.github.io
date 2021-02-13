@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
+title: Intergenic Transcription
 description: a project with a background image
-img: /assets/img/3.jpg
+img: /assets/img/annotation.png
+redirect: https://www.biorxiv.org/content/10.1101/2020.01.08.898478v1
 importance: 2
 ---
 

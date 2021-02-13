@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 6
+title: SeAMotE
 description: a project with no image
-img:
+img: /assets/img/seamote_logo.png
+redirect: http://s.tartaglialab.com/update_submission/333251/d4ac4613ae
 importance: 4
 ---
 
@@ -16,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/seamote_logo.png
     ---
 
 <div class="row">
