@@ -1,6 +1,6 @@
 ---
 layout: page
-order: C
+order: D
 permalink: /teaching/
 title: Appointments
 # description: Materials for courses you taught. Replace this text with your description.
